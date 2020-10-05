@@ -1,6 +1,7 @@
 FROM ubuntu:20.04
 
 LABEL maintainer="Ilya Siganov <ilya.blan4@gmail.com>"
+LABEL org.opencontainers.image.source https://github.com/senior-sigan/docker-cpp-build-box
 
 ENV DEBIAN_FRONTEND noninteractive
 

@@ -3,7 +3,7 @@
 Docker container with Valgrind, cmake, make, g++, gcc and clang utils.
 
 ```shell
-docker pull senior-sigan/cpp-build-box:latest
+docker pull ghcr.io/senior-sigan/cpp-build-box:latest
 ```
 
 ## Build cmake project
