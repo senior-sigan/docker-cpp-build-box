@@ -1,4 +1,4 @@
-TAG = sigan/build_box:latest
+TAG = senior-sigan/cpp-build-box:latest
 
 build:
 	docker build --tag $(TAG) --rm .
